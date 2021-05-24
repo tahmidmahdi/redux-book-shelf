@@ -5,6 +5,7 @@ import ReadingList from './pages/ReadingList'
 import { AuthProvider, PrivateRoute } from './lib/auth'
 
 function App() {
+  
   return (
     <AuthProvider>
       <Router>
