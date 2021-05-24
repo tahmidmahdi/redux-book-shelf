@@ -7,3 +7,5 @@
 5. Push your done code 
 6. Give a pull request to this repo
 
+[Guide for fork and pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
+
