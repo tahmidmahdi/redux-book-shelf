@@ -1,3 +1,6 @@
+[Recommended Playlist to learn Redux](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
+
+
 # Task for Day - 1 
 
 1. Frok this repository
@@ -8,4 +11,6 @@
 6. Give a pull request to this repo
 
 [Guide for fork and pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
+
+
 
