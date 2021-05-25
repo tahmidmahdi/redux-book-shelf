@@ -17,7 +17,11 @@
 
 # Task for Day - 2
 
-1. Load data from API :  sample API https://redux-book-shelf.herokuapp.com/books
+1. Load data from API 
+    APIS : 'GET'    https://redux-book-shelf.herokuapp.com/books
+           'POST'   https://redux-book-shelf.herokuapp.com/add-to-reading-list
+           'GET'    https://redux-book-shelf.herokuapp.com/reading-list
+           'DELETE' https://redux-book-shelf.herokuapp.com/remove-from-reading-list/:id
 
 
 
