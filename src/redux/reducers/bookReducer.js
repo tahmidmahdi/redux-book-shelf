@@ -1,13 +1,19 @@
-import allBooks from "../../fakeData/books.json";
 
 const initialState = {
   readingList: [],
-  discoverList: allBooks,
+  discoverList: [],
   finishedList: [],
 };
 
 const bookReducer = (state = initialState, action) => {
   switch (action.type) {
+    case "LOAD_BOOKS": {
+      const newState = {
+        ...state,
+        discoverList: action.payload
+      };
+      return newState;
+  }
     case "ADD_TO_READING_LIST": {
       const newState = {
         ...state,
