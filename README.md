@@ -24,5 +24,9 @@
     3. 'GET'    https://redux-book-shelf.herokuapp.com/reading-list
     4. 'DELETE' https://redux-book-shelf.herokuapp.com/remove-from-reading-list/:id
 
+# Task for Day - 2
+1. Start from starter branch
+2. Fullfill Day-1 and Day-2's similar features by Redux-toolkit
+
 
 
