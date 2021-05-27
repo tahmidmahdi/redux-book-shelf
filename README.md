@@ -1,3 +1,5 @@
+## Redux Workshop - Series
+
 [Recommended Playlist to learn Redux](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
 [রিয়েক্ট-রিডাক্স — দ্য ত্রাস](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
 
@@ -24,7 +26,7 @@
     3. 'GET'    https://redux-book-shelf.herokuapp.com/reading-list
     4. 'DELETE' https://redux-book-shelf.herokuapp.com/remove-from-reading-list/:id
 
-# Task for Day - 2
+# Task for Day - 3
 1. Start from starter branch
 2. Fullfill Day-1 and Day-2's similar features by Redux-toolkit
 
